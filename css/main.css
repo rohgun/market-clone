@@ -60,4 +60,5 @@ main{
     position: fixed;
     bottom: 120px;
     right: 20px;
+    cursor: pointer;
 }
